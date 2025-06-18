@@ -1,0 +1,42 @@
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scikit-learn>=1.1.0
+
+# Machine learning and deep learning
+tensorflow>=2.10.0
+keras>=2.10.0
+
+# Real-time data fetching
+yfinance>=0.2.0
+requests>=2.28.0
+
+# Financial data APIs (optional)
+alpha-vantage>=2.3.0
+finnhub-python>=2.4.0
+
+# Technical analysis
+ta>=0.10.0
+TA-Lib>=0.4.0  # May require separate installation
+
+# Sentiment Analysis
+transformers>=4.21.0
+torch>=1.12.0
+vaderSentiment>=3.3.2
+textblob>=0.17.1
+newsapi-python>=0.2.6
+
+# Data visualization
+plotly>=5.10.0
+mplfinance>=0.12.10b0
+
+# Utilities
+tqdm>=4.64.0
+python-dateutil>=2.8.0
+pytz>=2022.1
+
+# Development and testing
+jupyter>=1.0.0
+ipykernel>=6.15.0 
