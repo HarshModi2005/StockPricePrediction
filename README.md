@@ -395,6 +395,7 @@ Each approach is self-contained and can be improved independently:
 - Add new features or algorithms
 - Optimize hyperparameters
 - Extend to new datasets or markets
+
 - Cross-validate between approaches
 
 ## License
