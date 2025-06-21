@@ -4,7 +4,7 @@ This repository contains multiple approaches to stock price prediction, each imp
 
 ## Repository Structure
 
-```
+``` 
 StockPricePrediction/
 ├── hmm/                    # Hidden Markov Model (C implementation)
 ├── transformer/            # Transformer Neural Network (Python/Keras)
